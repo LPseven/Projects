@@ -1,0 +1,37 @@
+Each page must be appropriately and pleasantly styled using CSS.
+
+
+
+
+H1{
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+    border: 22px;
+    border-color: aliceblue;
+    border-radius: 22px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+    
+.div1{
+    align-items: center;
+    color: aliceblue;
+}
+
+H2{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+body{
+    background-color: black;
+}
